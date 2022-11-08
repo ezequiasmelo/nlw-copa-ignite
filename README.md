@@ -1,4 +1,4 @@
-# nlw_copa
+# NWL Copa
 
 ## 💻 Projeto
 
@@ -18,6 +18,8 @@ desenvolvido durante a semana Next Level Week (NLW) na Trilha Ignite promovido p
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
 - entre outras...
+
+## 🔖 Telas
 
 <div align="center">
     <img src="screens/Screenshot_1667876003.png" width="180"/>
